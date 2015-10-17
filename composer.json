@@ -1,0 +1,11 @@
+{
+    "name": "simplesqs/simplesqs",
+    "require": {
+        "aws/aws-sdk-php": "3.4.*"
+    },
+    "autoload":{
+        "psr-0": {
+            "SimpleSQS":"src/"
+        }
+    }
+}
