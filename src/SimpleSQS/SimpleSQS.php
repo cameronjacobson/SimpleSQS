@@ -4,6 +4,10 @@ namespace SimpleSQS;
 
 use \Aws\Sqs\SqsClient;
 
+/**
+ *  https://docs.aws.amazon.com/aws-sdk-php/v3/api/api-sqs-2012-11-05.html
+ */
+
 class SimpleSQS
 {
 	private $client;
