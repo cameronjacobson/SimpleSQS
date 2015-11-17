@@ -1,7 +1,7 @@
 {
     "name": "simplesqs/simplesqs",
     "require": {
-        "aws/aws-sdk-php": "3.4.*"
+        "aws/aws-sdk-php": "3.10.*"
     },
     "autoload":{
         "psr-0": {
